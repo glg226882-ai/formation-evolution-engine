@@ -24,8 +24,13 @@ Built with:
 
 All dropdown menus are searchable, **grouped by league → country**, and display **national flags** for international teams.
 
----
+## 📸 Screenshots
 
+| Predictor | Match Predictor | Comparison | Fixtures | History | FIFA Card |
+|-----------|----------------|------------|----------|---------|-----------|
+| ![Predictor](screenshots/Screenshot_20260427_130115_Chrome.jpg) | ![Match](screenshots/Screenshot_20260427_130116_Chrome.jpg) | ![Comparison](screenshots/Screenshot_20260427_130117_Chrome.jpg) | ![Fixtures](screenshots/Screenshot_20260427_130118_Chrome.jpg) | ![History](screenshots/Screenshot_20260427_130119_Chrome.jpg) | ![FIFA](screenshots/Screenshot_20260427_130120_Chrome.jpg) |
+
+---
 ## 🔧 Installation (Termux on Android)
 
 ### 1. Install Termux & basic packages
