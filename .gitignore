@@ -1,0 +1,5 @@
+*.json
+!example_team_profiles.json
+__pycache__/
+.kaggle/
+termux-backup.tar.gz

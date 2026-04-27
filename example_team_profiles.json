@@ -1,0 +1,188 @@
+{
+  "Bayer Leverkusen": {
+    "league": "StatsBomb Open Data",
+    "baseFormation": "unknown",
+    "style": "attack",
+    "offensiveStrength": NaN,
+    "defensiveSolidity": NaN,
+    "fluidity": 0.5,
+    "homeAggression": 1.0,
+    "awayCautious": 1.0,
+    "tendency": "Avg goals: 1.41 for, 1.19 against. Shots: 14.1 for, 10.8 against. Poss: 52.6%. Fluid: 0.50. Style: attack.",
+    "_raw": {
+      "xg_for": 2.426,
+      "xg_against": 0.767,
+      "pressures": 139.9,
+      "duel_win_rate": 0.17
+    },
+    "_fifa": {
+      "Pace": {
+        "Acceleration": 28,
+        "Sprint Speed": 50
+      },
+      "Shooting": {
+        "Finishing": 67,
+        "Shot Power": 77,
+        "Long Shots": 77
+      },
+      "Passing": {
+        "Vision": 73,
+        "Short Passing": 73,
+        "Long Passing": 73
+      },
+      "Dribbling": {
+        "Agility": 50,
+        "Balance": 87
+      },
+      "Defending": {
+        "Defensive Awareness": 50,
+        "Standing Tackle": 50,
+        "Sliding Tackle": 50
+      },
+      "Physical": {
+        "Strength": 87,
+        "Stamina": 28
+      },
+      "Mentality": {
+        "Aggression": 50,
+        "Vision": 73
+      }
+    },
+    "dh_matches": 34,
+    "dh_home_goals": 2.76,
+    "dh_home_shots": 19.53,
+    "dh_home_shots_target": 8.24,
+    "dh_home_corners": 7.65,
+    "dh_home_fouls": 9.53,
+    "dh_home_yellow": 1.65,
+    "dh_home_red": 0.0,
+    "dh_away_goals": 0.76,
+    "dh_away_shots": 9.94,
+    "dh_away_shots_target": 3.94,
+    "dh_away_corners": 3.82,
+    "dh_away_fouls": 10.76,
+    "dh_away_yellow": 2.18,
+    "dh_away_red": 0.18,
+    "dh_win_rate": 0.824,
+    "dh_draw_rate": 0.176,
+    "dh_loss_rate": 0.0
+  },
+  "Hoffenheim": {
+    "league": "StatsBomb Open Data",
+    "baseFormation": "unknown",
+    "style": "balanced",
+    "offensiveStrength": 4.0,
+    "defensiveSolidity": 2.2,
+    "fluidity": 0.5,
+    "homeAggression": 1.0,
+    "awayCautious": 1.0,
+    "tendency": "Avg goals: 1.19 for, 1.52 against. Shots: 11.3 for, 15.6 against. Poss: 47.1%. Fluid: 0.50. Style: balanced.",
+    "_raw": {
+      "xg_for": 1.237,
+      "xg_against": 1.631,
+      "pressures": 176.8,
+      "duel_win_rate": 0.09
+    },
+    "_fifa": {
+      "Pace": {
+        "Acceleration": 75,
+        "Sprint Speed": 50
+      },
+      "Shooting": {
+        "Finishing": 52,
+        "Shot Power": 41,
+        "Long Shots": 41
+      },
+      "Passing": {
+        "Vision": 40,
+        "Short Passing": 40,
+        "Long Passing": 40
+      },
+      "Dribbling": {
+        "Agility": 50,
+        "Balance": 8
+      },
+      "Defending": {
+        "Defensive Awareness": 50,
+        "Standing Tackle": 50,
+        "Sliding Tackle": 50
+      },
+      "Physical": {
+        "Strength": 8,
+        "Stamina": 75
+      },
+      "Mentality": {
+        "Aggression": 50,
+        "Vision": 40
+      }
+    },
+    "dh_matches": 34,
+    "dh_home_goals": 1.82,
+    "dh_home_shots": 15.82,
+    "dh_home_shots_target": 5.88,
+    "dh_home_corners": 5.71,
+    "dh_home_fouls": 9.59,
+    "dh_home_yellow": 2.59,
+    "dh_home_red": 0.12,
+    "dh_away_goals": 2.06,
+    "dh_away_shots": 19.59,
+    "dh_away_shots_target": 7.71,
+    "dh_away_corners": 7.47,
+    "dh_away_fouls": 11.65,
+    "dh_away_yellow": 1.94,
+    "dh_away_red": 0.12,
+    "dh_win_rate": 0.382,
+    "dh_draw_rate": 0.206,
+    "dh_loss_rate": 0.412
+  },
+  "Schalke 04": {
+    "league": "StatsBomb Open Data",
+    "baseFormation": "unknown",
+    "style": "balanced",
+    "offensiveStrength": 6.7,
+    "defensiveSolidity": 5.1,
+    "fluidity": 0.5,
+    "homeAggression": 1.0,
+    "awayCautious": 1.0,
+    "tendency": "Avg goals: 1.42 for, 1.33 against. Shots: 14.2 for, 14.5 against. Poss: 51.8%. Fluid: 0.50. Style: balanced.",
+    "_raw": {
+      "xg_for": 1.36,
+      "xg_against": 1.309,
+      "pressures": 160.0,
+      "duel_win_rate": 0.1
+    },
+    "_fifa": {
+      "Pace": {
+        "Acceleration": 49,
+        "Sprint Speed": 50
+      },
+      "Shooting": {
+        "Finishing": 68,
+        "Shot Power": 78,
+        "Long Shots": 78
+      },
+      "Passing": {
+        "Vision": 68,
+        "Short Passing": 68,
+        "Long Passing": 68
+      },
+      "Dribbling": {
+        "Agility": 50,
+        "Balance": 18
+      },
+      "Defending": {
+        "Defensive Awareness": 50,
+        "Standing Tackle": 50,
+        "Sliding Tackle": 50
+      },
+      "Physical": {
+        "Strength": 18,
+        "Stamina": 49
+      },
+      "Mentality": {
+        "Aggression": 50,
+        "Vision": 68
+      }
+    }
+  }
+}
